@@ -1,4 +1,4 @@
-# PLANTILLA-1.0
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
